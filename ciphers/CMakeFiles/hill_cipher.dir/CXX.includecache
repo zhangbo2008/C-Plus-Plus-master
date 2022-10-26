@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/ciphers/hill_cipher.cpp
+cassert
+-
+cmath
+-
+cstring
+-
+ctime
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+string
+-
+omp.h
+-
+../numerical_methods/lu_decomposition.h
+/mnt/c/C-Plus-Plus-master/numerical_methods/lu_decomposition.h
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/lu_decomposition.h
+iostream
+-
+valarray
+-
+vector
+-
+omp.h
+-
+

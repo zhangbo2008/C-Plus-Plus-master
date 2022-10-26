@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/strings/knuth_morris_pratt.cpp
+iostream
+-
+string
+-
+cstring
+-
+vector
+-
+

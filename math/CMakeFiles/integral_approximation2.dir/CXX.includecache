@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/math/integral_approximation2.cpp
+cmath
+-
+cstdint
+-
+ctime
+-
+functional
+-
+iostream
+-
+random
+-
+vector
+-
+

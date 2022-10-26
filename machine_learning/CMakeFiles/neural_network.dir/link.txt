@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/neural_network.dir/neural_network.cpp.o  -o neural_network /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

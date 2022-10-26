@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/connected_components_with_dsu.dir/connected_components_with_dsu.cpp.o  -o connected_components_with_dsu /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

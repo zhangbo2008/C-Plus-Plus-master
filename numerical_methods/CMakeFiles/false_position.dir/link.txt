@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/false_position.dir/false_position.cpp.o  -o false_position /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

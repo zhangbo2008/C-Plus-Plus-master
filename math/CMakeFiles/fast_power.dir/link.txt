@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/fast_power.dir/fast_power.cpp.o  -o fast_power /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

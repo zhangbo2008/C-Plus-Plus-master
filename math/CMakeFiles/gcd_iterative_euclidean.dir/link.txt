@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gcd_iterative_euclidean.dir/gcd_iterative_euclidean.cpp.o  -o gcd_iterative_euclidean /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

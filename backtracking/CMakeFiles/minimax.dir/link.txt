@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/minimax.dir/minimax.cpp.o  -o minimax /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

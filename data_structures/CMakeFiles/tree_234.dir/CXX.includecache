@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/data_structures/tree_234.cpp
+array
+-
+cassert
+-
+fstream
+-
+iostream
+-
+memory
+-
+queue
+-
+string
+-
+

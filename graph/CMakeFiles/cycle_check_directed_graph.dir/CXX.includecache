@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/graph/cycle_check_directed_graph.cpp
+iostream
+-
+map
+-
+queue
+-
+stdexcept
+-
+type_traits
+-
+utility
+-
+vector
+-
+

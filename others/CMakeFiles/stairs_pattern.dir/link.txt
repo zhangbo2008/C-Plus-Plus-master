@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/stairs_pattern.dir/stairs_pattern.cpp.o  -o stairs_pattern /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/jarvis_algorithm.dir/jarvis_algorithm.cpp.o  -o jarvis_algorithm /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

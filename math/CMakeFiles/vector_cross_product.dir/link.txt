@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/vector_cross_product.dir/vector_cross_product.cpp.o  -o vector_cross_product /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

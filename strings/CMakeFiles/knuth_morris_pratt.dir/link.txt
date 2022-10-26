@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/knuth_morris_pratt.dir/knuth_morris_pratt.cpp.o  -o knuth_morris_pratt /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

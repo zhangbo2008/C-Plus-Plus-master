@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/graph/breadth_first_search.cpp
+algorithm
+-
+cassert
+-
+iostream
+-
+list
+-
+map
+-
+queue
+-
+string
+-
+vector
+-
+

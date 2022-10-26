@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tree_234.dir/tree_234.cpp.o  -o tree_234 /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/backtracking/magic_sequence.cpp
+algorithm
+-
+cassert
+-
+iostream
+-
+list
+-
+numeric
+-
+vector
+-
+

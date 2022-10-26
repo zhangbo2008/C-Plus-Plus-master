@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/durand_kerner_roots.dir/durand_kerner_roots.cpp.o  -o durand_kerner_roots /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

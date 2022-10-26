@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pancake_sort.dir/pancake_sort.cpp.o  -o pancake_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

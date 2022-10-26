@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/area.dir/area.cpp.o  -o area /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

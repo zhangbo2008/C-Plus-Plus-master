@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bridge_finding_with_tarjan_algorithm.dir/bridge_finding_with_tarjan_algorithm.cpp.o  -o bridge_finding_with_tarjan_algorithm /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

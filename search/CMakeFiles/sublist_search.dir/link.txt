@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sublist_search.dir/sublist_search.cpp.o  -o sublist_search /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

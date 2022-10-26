@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/odd_even_sort.dir/odd_even_sort.cpp.o  -o odd_even_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/inverse_fast_fourier_transform.cpp
+cassert
+-
+cmath
+-
+complex
+-
+iostream
+-
+vector
+-
+

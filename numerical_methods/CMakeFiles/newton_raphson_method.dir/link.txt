@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/newton_raphson_method.dir/newton_raphson_method.cpp.o  -o newton_raphson_method /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

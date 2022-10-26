@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/armstrong_number.dir/armstrong_number.cpp.o  -o armstrong_number /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

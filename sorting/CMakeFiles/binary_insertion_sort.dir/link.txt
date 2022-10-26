@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/binary_insertion_sort.dir/binary_insertion_sort.cpp.o  -o binary_insertion_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

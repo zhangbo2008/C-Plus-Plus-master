@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/check_prime.dir/check_prime.cpp.o  -o check_prime /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

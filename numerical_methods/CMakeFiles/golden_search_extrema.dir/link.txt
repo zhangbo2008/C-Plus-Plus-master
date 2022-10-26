@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/golden_search_extrema.dir/golden_search_extrema.cpp.o  -o golden_search_extrema /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

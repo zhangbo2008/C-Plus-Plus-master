@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/perimeter.dir/perimeter.cpp.o  -o perimeter /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

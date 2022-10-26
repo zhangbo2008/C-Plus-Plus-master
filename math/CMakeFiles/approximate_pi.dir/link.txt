@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/approximate_pi.dir/approximate_pi.cpp.o  -o approximate_pi /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ncr_modulo_p.dir/ncr_modulo_p.cpp.o  -o ncr_modulo_p /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

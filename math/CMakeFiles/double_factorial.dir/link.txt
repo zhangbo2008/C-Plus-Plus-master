@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/double_factorial.dir/double_factorial.cpp.o  -o double_factorial /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

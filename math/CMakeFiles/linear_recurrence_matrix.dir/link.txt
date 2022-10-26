@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/linear_recurrence_matrix.dir/linear_recurrence_matrix.cpp.o  -o linear_recurrence_matrix /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/shell_sort2.dir/shell_sort2.cpp.o  -o shell_sort2 /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

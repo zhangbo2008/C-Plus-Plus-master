@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/sorting/merge_insertion_sort.cpp
+algorithm
+-
+array
+-
+cassert
+-
+ctime
+-
+iostream
+-
+memory
+-
+

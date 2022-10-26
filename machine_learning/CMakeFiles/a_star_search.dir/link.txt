@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a_star_search.dir/a_star_search.cpp.o  -o a_star_search /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/iterative_tree_traversals.dir/iterative_tree_traversals.cpp.o  -o iterative_tree_traversals /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/ciphers/a1z26_cipher.cpp
+algorithm
+-
+cassert
+-
+cstdint
+-
+iostream
+-
+map
+-
+sstream
+-
+string
+-
+vector
+-
+

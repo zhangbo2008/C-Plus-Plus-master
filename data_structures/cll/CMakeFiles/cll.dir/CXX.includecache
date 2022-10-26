@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/data_structures/cll/cll.cpp
+cll.h
+/mnt/c/C-Plus-Plus-master/data_structures/cll/cll.h
+
+/mnt/c/C-Plus-Plus-master/data_structures/cll/cll.h
+cctype
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+
+/mnt/c/C-Plus-Plus-master/data_structures/cll/main_cll.cpp
+cll.h
+/mnt/c/C-Plus-Plus-master/data_structures/cll/cll.h
+

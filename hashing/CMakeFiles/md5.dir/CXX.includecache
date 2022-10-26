@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/hashing/md5.cpp
+algorithm
+-
+array
+-
+cassert
+-
+cstring
+-
+iostream
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/brute_force_string_searching.dir/brute_force_string_searching.cpp.o  -o brute_force_string_searching /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

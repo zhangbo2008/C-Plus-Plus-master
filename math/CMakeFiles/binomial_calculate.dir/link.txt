@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/binomial_calculate.dir/binomial_calculate.cpp.o  -o binomial_calculate /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

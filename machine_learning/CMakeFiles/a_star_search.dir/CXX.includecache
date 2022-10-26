@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/machine_learning/a_star_search.cpp
+algorithm
+-
+array
+-
+cassert
+-
+functional
+-
+iostream
+-
+map
+-
+memory
+-
+set
+-
+vector
+-
+

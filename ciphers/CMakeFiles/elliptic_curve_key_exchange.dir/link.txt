@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/elliptic_curve_key_exchange.dir/elliptic_curve_key_exchange.cpp.o  -o elliptic_curve_key_exchange /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

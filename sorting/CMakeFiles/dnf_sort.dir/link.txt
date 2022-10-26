@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/dnf_sort.dir/dnf_sort.cpp.o  -o dnf_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

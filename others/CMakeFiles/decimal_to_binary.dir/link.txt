@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/decimal_to_binary.dir/decimal_to_binary.cpp.o  -o decimal_to_binary /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

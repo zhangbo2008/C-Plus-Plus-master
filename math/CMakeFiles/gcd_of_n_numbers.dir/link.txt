@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/gcd_of_n_numbers.dir/gcd_of_n_numbers.cpp.o  -o gcd_of_n_numbers /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

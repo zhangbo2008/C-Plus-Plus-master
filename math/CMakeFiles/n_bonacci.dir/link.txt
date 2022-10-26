@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/n_bonacci.dir/n_bonacci.cpp.o  -o n_bonacci /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

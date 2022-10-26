@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/ciphers/elliptic_curve_key_exchange.cpp
+cassert
+-
+iostream
+-
+uint256_t.hpp
+/mnt/c/C-Plus-Plus-master/ciphers/uint256_t.hpp
+
+/mnt/c/C-Plus-Plus-master/ciphers/uint128_t.hpp
+algorithm
+-
+ostream
+-
+string
+-
+utility
+-
+intrin.h
+-
+
+/mnt/c/C-Plus-Plus-master/ciphers/uint256_t.hpp
+string
+-
+utility
+-
+uint128_t.hpp
+/mnt/c/C-Plus-Plus-master/ciphers/uint128_t.hpp
+

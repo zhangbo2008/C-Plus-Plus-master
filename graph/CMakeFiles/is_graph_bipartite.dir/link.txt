@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/is_graph_bipartite.dir/is_graph_bipartite.cpp.o  -o is_graph_bipartite /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

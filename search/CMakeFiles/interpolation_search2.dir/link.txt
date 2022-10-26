@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/interpolation_search2.dir/interpolation_search2.cpp.o  -o interpolation_search2 /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

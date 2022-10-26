@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/nqueen_print_all_solutions.dir/nqueen_print_all_solutions.cpp.o  -o nqueen_print_all_solutions /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

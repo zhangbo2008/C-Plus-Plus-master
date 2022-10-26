@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/kruskal.dir/kruskal.cpp.o  -o kruskal /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

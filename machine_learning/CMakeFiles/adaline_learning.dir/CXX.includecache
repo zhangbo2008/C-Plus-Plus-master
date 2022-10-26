@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/machine_learning/adaline_learning.cpp
+array
+-
+cassert
+-
+climits
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+numeric
+-
+vector
+-
+

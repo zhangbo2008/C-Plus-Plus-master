@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/quick_sort_3.dir/quick_sort_3.cpp.o  -o quick_sort_3 /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/rb_tree.dir/rb_tree.cpp.o  -o rb_tree /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

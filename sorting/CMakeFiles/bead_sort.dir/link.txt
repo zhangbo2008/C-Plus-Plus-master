@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bead_sort.dir/bead_sort.cpp.o  -o bead_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

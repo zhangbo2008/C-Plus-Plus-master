@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/qr_decomposition.dir/qr_decomposition.cpp.o  -o qr_decomposition /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

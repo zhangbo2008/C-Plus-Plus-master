@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/merge_insertion_sort.dir/merge_insertion_sort.cpp.o  -o merge_insertion_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

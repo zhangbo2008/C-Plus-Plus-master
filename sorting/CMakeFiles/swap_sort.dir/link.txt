@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/swap_sort.dir/swap_sort.cpp.o  -o swap_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

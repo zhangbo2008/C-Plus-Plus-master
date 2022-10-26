@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/number_of_positive_divisors.dir/number_of_positive_divisors.cpp.o  -o number_of_positive_divisors /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

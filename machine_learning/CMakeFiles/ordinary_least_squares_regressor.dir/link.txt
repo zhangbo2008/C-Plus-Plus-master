@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ordinary_least_squares_regressor.dir/ordinary_least_squares_regressor.cpp.o  -o ordinary_least_squares_regressor /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/composite_simpson_rule.cpp
+cassert
+-
+cmath
+-
+cmath
+-
+cstdint
+-
+cstdlib
+-
+functional
+-
+iostream
+-
+map
+-
+

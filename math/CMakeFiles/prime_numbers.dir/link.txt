@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/prime_numbers.dir/prime_numbers.cpp.o  -o prime_numbers /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/skip_list.dir/skip_list.cpp.o  -o skip_list /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

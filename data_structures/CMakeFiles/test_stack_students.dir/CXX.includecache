@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/data_structures/./stack.h
+cassert
+-
+iostream
+-
+
+/mnt/c/C-Plus-Plus-master/data_structures/test_stack_students.cpp
+cassert
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+string
+-
+./stack.h
+/mnt/c/C-Plus-Plus-master/data_structures/./stack.h
+

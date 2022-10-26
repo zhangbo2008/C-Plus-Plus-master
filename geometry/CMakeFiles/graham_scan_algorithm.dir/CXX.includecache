@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/geometry/./graham_scan_functions.hpp
+algorithm
+-
+cstdlib
+-
+iostream
+-
+stack
+-
+vector
+-
+
+/mnt/c/C-Plus-Plus-master/geometry/graham_scan_algorithm.cpp
+cassert
+-
+iostream
+-
+vector
+-
+./graham_scan_functions.hpp
+/mnt/c/C-Plus-Plus-master/geometry/./graham_scan_functions.hpp
+

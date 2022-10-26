@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/modular_inverse_fermat_little_theorem.dir/modular_inverse_fermat_little_theorem.cpp.o  -o modular_inverse_fermat_little_theorem /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

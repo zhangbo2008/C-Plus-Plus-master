@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/power_for_huge_numbers.dir/power_for_huge_numbers.cpp.o  -o power_for_huge_numbers /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

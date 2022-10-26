@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/graph/hopcroft_karp.cpp
+iostream
+-
+cstdlib
+-
+queue
+-
+list
+-
+climits
+-
+memory
+-
+cassert
+-
+

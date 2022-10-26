@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trie_modern.dir/trie_modern.cpp.o  -o trie_modern /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

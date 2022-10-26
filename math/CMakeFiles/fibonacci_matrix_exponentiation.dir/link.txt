@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/fibonacci_matrix_exponentiation.dir/fibonacci_matrix_exponentiation.cpp.o  -o fibonacci_matrix_exponentiation /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/linked_list.dir/linked_list.cpp.o  -o linked_list /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

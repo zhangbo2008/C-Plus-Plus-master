@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/composite_simpson_rule.dir/composite_simpson_rule.cpp.o  -o composite_simpson_rule /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

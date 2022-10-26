@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/gram_schmidt.cpp
+array
+-
+cassert
+-
+cmath
+-
+iostream
+-
+math.h
+/mnt/c/C-Plus-Plus-master/numerical_methods/math.h
+

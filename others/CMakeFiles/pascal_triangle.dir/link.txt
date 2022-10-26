@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pascal_triangle.dir/pascal_triangle.cpp.o  -o pascal_triangle /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

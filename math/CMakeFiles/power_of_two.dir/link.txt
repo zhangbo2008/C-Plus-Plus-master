@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/power_of_two.dir/power_of_two.cpp.o  -o power_of_two /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

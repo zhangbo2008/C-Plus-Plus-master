@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/linkedlist_implentation_usingarray.dir/linkedlist_implentation_usingarray.cpp.o  -o linkedlist_implentation_usingarray /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

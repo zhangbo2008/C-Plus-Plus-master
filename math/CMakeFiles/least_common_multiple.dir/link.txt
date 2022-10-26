@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/least_common_multiple.dir/least_common_multiple.cpp.o  -o least_common_multiple /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

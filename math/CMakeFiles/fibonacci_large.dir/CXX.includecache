@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/math/./large_number.h
+algorithm
+-
+cassert
+-
+cinttypes
+-
+cstring
+-
+iostream
+-
+type_traits
+-
+vector
+-
+
+/mnt/c/C-Plus-Plus-master/math/fibonacci_large.cpp
+cinttypes
+-
+ctime
+-
+iostream
+-
+./large_number.h
+/mnt/c/C-Plus-Plus-master/math/./large_number.h
+

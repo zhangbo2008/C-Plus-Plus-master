@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/circular_queue_using_linked_list.dir/circular_queue_using_linked_list.cpp.o  -o circular_queue_using_linked_list /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/random_pivot_quick_sort.dir/random_pivot_quick_sort.cpp.o  -o random_pivot_quick_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

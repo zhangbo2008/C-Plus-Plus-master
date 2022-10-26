@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cycle_sort.dir/cycle_sort.cpp.o  -o cycle_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

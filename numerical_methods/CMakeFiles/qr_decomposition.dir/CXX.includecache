@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/./qr_decompose.h
+cmath
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+limits
+-
+numeric
+-
+valarray
+-
+omp.h
+-
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/qr_decomposition.cpp
+array
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+./qr_decompose.h
+/mnt/c/C-Plus-Plus-master/numerical_methods/./qr_decompose.h
+

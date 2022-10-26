@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/binary_search.dir/binary_search.cpp.o  -o binary_search /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

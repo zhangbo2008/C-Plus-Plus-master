@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ternary_search.dir/ternary_search.cpp.o  -o ternary_search /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

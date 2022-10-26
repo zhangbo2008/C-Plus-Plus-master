@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/jump_search.dir/jump_search.cpp.o  -o jump_search /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

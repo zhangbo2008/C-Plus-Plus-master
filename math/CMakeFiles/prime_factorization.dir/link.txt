@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/prime_factorization.dir/prime_factorization.cpp.o  -o prime_factorization /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/primes_up_to_billion.dir/primes_up_to_billion.cpp.o  -o primes_up_to_billion /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

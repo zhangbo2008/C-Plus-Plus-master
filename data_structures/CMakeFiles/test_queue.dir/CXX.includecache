@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/data_structures/./queue.h
+cassert
+-
+iostream
+-
+
+/mnt/c/C-Plus-Plus-master/data_structures/test_queue.cpp
+iostream
+-
+string
+-
+./queue.h
+/mnt/c/C-Plus-Plus-master/data_structures/./queue.h
+

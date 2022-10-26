@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/midpoint_integral_method.cpp
+cassert
+-
+cmath
+-
+cstdint
+-
+cstdlib
+-
+functional
+-
+iostream
+-
+map
+-
+

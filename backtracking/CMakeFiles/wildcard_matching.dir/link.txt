@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/wildcard_matching.dir/wildcard_matching.cpp.o  -o wildcard_matching /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

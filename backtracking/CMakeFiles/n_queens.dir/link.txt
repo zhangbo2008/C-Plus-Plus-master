@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/n_queens.dir/n_queens.cpp.o  -o n_queens /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

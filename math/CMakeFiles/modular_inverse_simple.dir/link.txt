@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/modular_inverse_simple.dir/modular_inverse_simple.cpp.o  -o modular_inverse_simple /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

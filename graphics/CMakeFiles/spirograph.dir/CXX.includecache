@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/graphics/spirograph.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+array
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+omp.h
+-
+

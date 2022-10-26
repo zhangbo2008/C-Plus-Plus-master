@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/selection_sort_recursive.dir/selection_sort_recursive.cpp.o  -o selection_sort_recursive /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

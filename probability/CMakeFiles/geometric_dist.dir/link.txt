@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/geometric_dist.dir/geometric_dist.cpp.o  -o geometric_dist /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/graph/max_flow_with_ford_fulkerson_and_edmond_karp_algo.cpp
+algorithm
+-
+bitset
+-
+cstring
+-
+iostream
+-
+limits
+-
+queue
+-
+tuple
+-
+utility
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tower_of_hanoi.dir/tower_of_hanoi.cpp.o  -o tower_of_hanoi /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

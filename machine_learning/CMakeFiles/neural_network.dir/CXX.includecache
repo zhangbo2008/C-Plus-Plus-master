@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/machine_learning/neural_network.cpp
+algorithm
+-
+cassert
+-
+chrono
+-
+cmath
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+valarray
+-
+vector
+-
+vector_ops.hpp
+/mnt/c/C-Plus-Plus-master/machine_learning/vector_ops.hpp
+
+/mnt/c/C-Plus-Plus-master/machine_learning/vector_ops.hpp
+algorithm
+-
+chrono
+-
+iostream
+-
+random
+-
+valarray
+-
+vector
+-
+

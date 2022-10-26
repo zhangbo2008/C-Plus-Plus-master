@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/graph_coloring.dir/graph_coloring.cpp.o  -o graph_coloring /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

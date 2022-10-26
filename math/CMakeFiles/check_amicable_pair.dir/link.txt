@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/check_amicable_pair.dir/check_amicable_pair.cpp.o  -o check_amicable_pair /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

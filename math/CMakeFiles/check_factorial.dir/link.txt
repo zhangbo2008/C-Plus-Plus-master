@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/check_factorial.dir/check_factorial.cpp.o  -o check_factorial /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

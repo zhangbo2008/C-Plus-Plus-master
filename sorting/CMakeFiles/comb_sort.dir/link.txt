@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/comb_sort.dir/comb_sort.cpp.o  -o comb_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

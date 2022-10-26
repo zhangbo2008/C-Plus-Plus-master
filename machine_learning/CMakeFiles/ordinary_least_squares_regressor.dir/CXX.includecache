@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/machine_learning/ordinary_least_squares_regressor.cpp
+cassert
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+vector
+-
+

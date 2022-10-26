@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/set_kth_bit.dir/set_kth_bit.cpp.o  -o set_kth_bit /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

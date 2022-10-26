@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/machine_learning/kohonen_som_trace.cpp
+algorithm
+-
+array
+-
+cmath
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+iostream
+-
+valarray
+-
+vector
+-
+omp.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sqrt_double.dir/sqrt_double.cpp.o  -o sqrt_double /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/z_function.dir/z_function.cpp.o  -o z_function /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

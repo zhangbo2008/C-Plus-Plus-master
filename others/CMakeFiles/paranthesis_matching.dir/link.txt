@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/paranthesis_matching.dir/paranthesis_matching.cpp.o  -o paranthesis_matching /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

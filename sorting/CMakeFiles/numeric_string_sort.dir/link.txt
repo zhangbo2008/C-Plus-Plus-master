@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/numeric_string_sort.dir/numeric_string_sort.cpp.o  -o numeric_string_sort /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

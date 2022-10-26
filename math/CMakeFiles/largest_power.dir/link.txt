@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/largest_power.dir/largest_power.cpp.o  -o largest_power /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/C-Plus-Plus-master/numerical_methods/durand_kerner_roots.cpp
+algorithm
+-
+cassert
+-
+cmath
+-
+complex
+-
+cstdlib
+-
+ctime
+-
+fstream
+-
+iostream
+-
+valarray
+-
+omp.h
+-
+

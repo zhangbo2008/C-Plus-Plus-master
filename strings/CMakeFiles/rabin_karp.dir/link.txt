@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/rabin_karp.dir/rabin_karp.cpp.o  -o rabin_karp /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 
